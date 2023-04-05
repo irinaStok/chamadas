@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+box-sizing: border-box;
+
+}
+
+html, body, #root{
+  height: 100%;
+}
+
+body{
+  font: 14px;
+  font-family: sans-serif;
+  background-color: rgb(250, 250, 250);
+}
+/* 'a' ancora/link ; f para retirar o link*/
+a{
+text-decoration: none;
+}
+
+/* p/ retirar a bolinhas das listas */
+ul{
+  list-style: none;
+}
+
+button{
+  cursor: pointer;
+}
